@@ -1,0 +1,599 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.example.lenovo.apis.AlphabetSortListViewDemo
+com.example.lenovo.apis.AlphabetSortListViewDemo: AlphabetSortListViewDemo()
+com.example.lenovo.apis.AnchorPopupListViewDemo
+com.example.lenovo.apis.AnchorPopupListViewDemo: AnchorPopupListViewDemo()
+com.example.lenovo.apis.BitmapRoundCornerDemo
+com.example.lenovo.apis.BitmapRoundCornerDemo: BitmapRoundCornerDemo()
+com.example.lenovo.apis.BlurEffectActivityDemo
+com.example.lenovo.apis.BlurEffectActivityDemo: BlurEffectActivityDemo()
+com.example.lenovo.apis.BlurGradientEffectActivity
+com.example.lenovo.apis.BlurGradientEffectActivity: BlurGradientEffectActivity()
+com.example.lenovo.apis.EmbedMenuListViewDemo
+com.example.lenovo.apis.EmbedMenuListViewDemo: EmbedMenuListViewDemo()
+com.example.lenovo.apis.ExpandableListViewDemo
+com.example.lenovo.apis.ExpandableListViewDemo: ExpandableListViewDemo()
+com.example.lenovo.apis.FastScrollerActivityDemo
+com.example.lenovo.apis.FastScrollerActivityDemo: FastScrollerActivityDemo()
+com.example.lenovo.apis.FlexibleListViewDemo
+com.example.lenovo.apis.FlexibleListViewDemo: FlexibleListViewDemo()
+com.example.lenovo.apis.LenovoApiDemos
+com.example.lenovo.apis.LenovoApiDemos: LenovoApiDemos()
+com.example.lenovo.apis.Pull$Reverse$SwipeSectionListViewDemo
+com.example.lenovo.apis.Pull$Reverse$SwipeSectionListViewDemo: Pull$Reverse$SwipeSectionListViewDemo()
+com.example.lenovo.apis.PullChoiceListViewDemo
+com.example.lenovo.apis.PullChoiceListViewDemo: PullChoiceListViewDemo()
+com.example.lenovo.apis.PullRefreshListViewDemo
+com.example.lenovo.apis.PullRefreshListViewDemo: PullRefreshListViewDemo()
+com.example.lenovo.apis.R$anim: int accelerate_interpolator
+com.example.lenovo.apis.R$anim: int anim_shake
+com.example.lenovo.apis.R$anim: int blur_bg_enter
+com.example.lenovo.apis.R$anim: int blur_bg_exit
+com.example.lenovo.apis.R$anim: int blur_show_enter
+com.example.lenovo.apis.R$anim: int blur_show_exit
+com.example.lenovo.apis.R$anim: int cycle_interpolator
+com.example.lenovo.apis.R$anim: int decelerate_interpolator
+com.example.lenovo.apis.R$anim: int grow_fade_in
+com.example.lenovo.apis.R$anim: int grow_fade_in_from_bottom
+com.example.lenovo.apis.R$anim: int popup_disappear
+com.example.lenovo.apis.R$anim: int popup_grow_from_bottom
+com.example.lenovo.apis.R$anim: int popup_grow_from_bottomleft_to_topright
+com.example.lenovo.apis.R$anim: int popup_grow_from_bottomright_to_topleft
+com.example.lenovo.apis.R$anim: int popup_grow_from_top
+com.example.lenovo.apis.R$anim: int popup_grow_from_topleft_to_bottomright
+com.example.lenovo.apis.R$anim: int popup_grow_from_topright_to_bottomleft
+com.example.lenovo.apis.R$anim: int popup_move_down_to_up
+com.example.lenovo.apis.R$anim: int popup_move_down_to_up2
+com.example.lenovo.apis.R$anim: int popup_move_left_to_right
+com.example.lenovo.apis.R$anim: int popup_move_right_to_left
+com.example.lenovo.apis.R$anim: int popup_move_up_to_down
+com.example.lenovo.apis.R$anim: int popup_move_up_to_down2
+com.example.lenovo.apis.R$anim: int popup_pump_bottom
+com.example.lenovo.apis.R$anim: int popup_pump_top
+com.example.lenovo.apis.R$anim: int popup_shrink_from_bottom
+com.example.lenovo.apis.R$anim: int popup_shrink_from_bottomleft_to_topright
+com.example.lenovo.apis.R$anim: int popup_shrink_from_bottomright_to_topleft
+com.example.lenovo.apis.R$anim: int popup_shrink_from_top
+com.example.lenovo.apis.R$anim: int popup_shrink_from_topleft_to_bottomright
+com.example.lenovo.apis.R$anim: int popup_shrink_from_topright_to_bottomleft
+com.example.lenovo.apis.R$anim: int popup_test_in
+com.example.lenovo.apis.R$anim: int popup_test_out
+com.example.lenovo.apis.R$anim: int pull_refreshing_rotate
+com.example.lenovo.apis.R$anim: int shrink_fade_out
+com.example.lenovo.apis.R$anim: int shrink_fade_out_from_bottom
+com.example.lenovo.apis.R$array: int welcome_bg
+com.example.lenovo.apis.R$color: int color_alphabet_select_text
+com.example.lenovo.apis.R$color: int color_anchor_hint_pressed
+com.example.lenovo.apis.R$color: int color_anchor_hint_selected
+com.example.lenovo.apis.R$color: int color_anchor_hint_transparent
+com.example.lenovo.apis.R$color: int color_embed_item_normal
+com.example.lenovo.apis.R$color: int color_embed_item_pressed
+com.example.lenovo.apis.R$color: int color_embed_item_selected
+com.example.lenovo.apis.R$color: int skin_color_button
+com.example.lenovo.apis.R$color: int tab_item_text
+com.example.lenovo.apis.R$dimen: int alphabet_layout_padding
+com.example.lenovo.apis.R$dimen: int alphabet_popup_size
+com.example.lenovo.apis.R$dimen: int image_round_corner_radius
+com.example.lenovo.apis.R$dimen: int list_item_embedmenu_height
+com.example.lenovo.apis.R$dimen: int tab_container_height
+com.example.lenovo.apis.R$dimen: int tab_container_padding
+com.example.lenovo.apis.R$dimen: int tab_divider_width
+com.example.lenovo.apis.R$dimen: int ui_popup_item_min_width
+com.example.lenovo.apis.R$dimen: int ui_title_bar_height
+com.example.lenovo.apis.R$dimen: int viewpager_indicator_padding
+com.example.lenovo.apis.R$drawable: int alphabet_bar_search_icon
+com.example.lenovo.apis.R$drawable: int alphabet_scrollbar_bg
+com.example.lenovo.apis.R$drawable: int alphabet_select_toast_bg
+com.example.lenovo.apis.R$drawable: int bg_anchor_hint
+com.example.lenovo.apis.R$drawable: int bg_blur_gradient_header
+com.example.lenovo.apis.R$drawable: int bg_blur_gradient_image
+com.example.lenovo.apis.R$drawable: int bg_blur_show
+com.example.lenovo.apis.R$drawable: int bg_blur_sky
+com.example.lenovo.apis.R$drawable: int bg_common_loading
+com.example.lenovo.apis.R$drawable: int bg_embed_item
+com.example.lenovo.apis.R$drawable: int bg_slidemenu_item
+com.example.lenovo.apis.R$drawable: int btn_big_submit_disable
+com.example.lenovo.apis.R$drawable: int btn_big_submit_normal
+com.example.lenovo.apis.R$drawable: int btn_big_submit_press
+com.example.lenovo.apis.R$drawable: int btn_common_cancel
+com.example.lenovo.apis.R$drawable: int btn_default_submit
+com.example.lenovo.apis.R$drawable: int button_anchor_popupwindow_normal
+com.example.lenovo.apis.R$drawable: int button_anchor_popupwindow_white
+com.example.lenovo.apis.R$drawable: int common_list_item_background
+com.example.lenovo.apis.R$drawable: int divider
+com.example.lenovo.apis.R$drawable: int ic_alphabet_sort_music
+com.example.lenovo.apis.R$drawable: int ic_anchor_popupwindow_hint
+com.example.lenovo.apis.R$drawable: int ic_blur_gradient_list_uparrow
+com.example.lenovo.apis.R$drawable: int ic_blur_icon1
+com.example.lenovo.apis.R$drawable: int ic_blur_icon2
+com.example.lenovo.apis.R$drawable: int ic_blur_icon3
+com.example.lenovo.apis.R$drawable: int ic_blur_icon4
+com.example.lenovo.apis.R$drawable: int ic_blur_icon5
+com.example.lenovo.apis.R$drawable: int ic_blur_icon6
+com.example.lenovo.apis.R$drawable: int ic_blur_icon7
+com.example.lenovo.apis.R$drawable: int ic_blur_icon8
+com.example.lenovo.apis.R$drawable: int ic_blur_show1
+com.example.lenovo.apis.R$drawable: int ic_blur_show2
+com.example.lenovo.apis.R$drawable: int ic_blur_show3
+com.example.lenovo.apis.R$drawable: int ic_blur_show4
+com.example.lenovo.apis.R$drawable: int ic_blur_show5
+com.example.lenovo.apis.R$drawable: int ic_blur_show6
+com.example.lenovo.apis.R$drawable: int ic_common_arrow
+com.example.lenovo.apis.R$drawable: int ic_common_cancel_normal
+com.example.lenovo.apis.R$drawable: int ic_common_cancel_press
+com.example.lenovo.apis.R$drawable: int ic_common_droparrow
+com.example.lenovo.apis.R$drawable: int ic_common_loading
+com.example.lenovo.apis.R$drawable: int ic_demo_1
+com.example.lenovo.apis.R$drawable: int ic_demo_2
+com.example.lenovo.apis.R$drawable: int ic_demo_3
+com.example.lenovo.apis.R$drawable: int ic_demo_4
+com.example.lenovo.apis.R$drawable: int ic_demo_5
+com.example.lenovo.apis.R$drawable: int ic_demo_6
+com.example.lenovo.apis.R$drawable: int ic_demo_7
+com.example.lenovo.apis.R$drawable: int ic_demo_file_icon
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_01
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_02
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_03
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_bg
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_bg_01
+com.example.lenovo.apis.R$drawable: int ic_demo_flag_bg_02
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_01
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_02
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_03
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_04
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_05
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_06
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_07
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_08
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_09
+com.example.lenovo.apis.R$drawable: int ic_demo_iamge_10
+com.example.lenovo.apis.R$drawable: int ic_demo_magic
+com.example.lenovo.apis.R$drawable: int ic_demo_voucher
+com.example.lenovo.apis.R$drawable: int ic_fastscroller_drag
+com.example.lenovo.apis.R$drawable: int ic_item_flag_01
+com.example.lenovo.apis.R$drawable: int ic_item_flag_02
+com.example.lenovo.apis.R$drawable: int ic_launcher
+com.example.lenovo.apis.R$drawable: int ic_list_alphabetsort_catalog_bg
+com.example.lenovo.apis.R$drawable: int ic_list_embedmenu_addto
+com.example.lenovo.apis.R$drawable: int ic_list_embedmenu_delete
+com.example.lenovo.apis.R$drawable: int ic_list_embedmenu_download
+com.example.lenovo.apis.R$drawable: int ic_list_embedmenu_setring
+com.example.lenovo.apis.R$drawable: int ic_list_embedmenu_share
+com.example.lenovo.apis.R$drawable: int ic_list_popup_add_to
+com.example.lenovo.apis.R$drawable: int ic_list_popup_delete
+com.example.lenovo.apis.R$drawable: int ic_list_popup_fav
+com.example.lenovo.apis.R$drawable: int ic_list_popup_set_ringtone
+com.example.lenovo.apis.R$drawable: int ic_list_section_left
+com.example.lenovo.apis.R$drawable: int ic_list_section_left_arrow
+com.example.lenovo.apis.R$drawable: int ic_list_section_left_arrow_light
+com.example.lenovo.apis.R$drawable: int ic_list_section_right
+com.example.lenovo.apis.R$drawable: int ic_list_section_right_arrow
+com.example.lenovo.apis.R$drawable: int ic_list_section_right_arrow_light
+com.example.lenovo.apis.R$drawable: int ic_list_slidemenu_canceltop
+com.example.lenovo.apis.R$drawable: int ic_list_slidemenu_delete
+com.example.lenovo.apis.R$drawable: int ic_list_slidemenu_top
+com.example.lenovo.apis.R$drawable: int ic_round_corner_bg
+com.example.lenovo.apis.R$drawable: int ic_round_corner_demo01
+com.example.lenovo.apis.R$drawable: int ic_round_corner_demo02
+com.example.lenovo.apis.R$drawable: int ic_round_corner_demo03
+com.example.lenovo.apis.R$drawable: int ic_round_corner_frame
+com.example.lenovo.apis.R$drawable: int ic_round_corner_mask
+com.example.lenovo.apis.R$drawable: int ic_stat_happy
+com.example.lenovo.apis.R$drawable: int ic_stat_neutral
+com.example.lenovo.apis.R$drawable: int ic_tab_flag
+com.example.lenovo.apis.R$drawable: int ic_viewpager_indicator_arrow
+com.example.lenovo.apis.R$drawable: int ic_viewpager_indicator_gray
+com.example.lenovo.apis.R$drawable: int ic_viewpager_indicator_white
+com.example.lenovo.apis.R$drawable: int ic_welcome_viewpager_1
+com.example.lenovo.apis.R$drawable: int ic_welcome_viewpager_2
+com.example.lenovo.apis.R$drawable: int ic_welcome_viewpager_3
+com.example.lenovo.apis.R$drawable: int ic_welcome_viewpager_4
+com.example.lenovo.apis.R$drawable: int index_cover_bottom
+com.example.lenovo.apis.R$drawable: int index_cover_top
+com.example.lenovo.apis.R$drawable: int list_section_left_bg
+com.example.lenovo.apis.R$drawable: int list_section_right_bg
+com.example.lenovo.apis.R$drawable: int popup_downarrow_bg
+com.example.lenovo.apis.R$drawable: int popup_uparrow_bg
+com.example.lenovo.apis.R$drawable: int red_del_btn_bg
+com.example.lenovo.apis.R$drawable: int red_del_btn_bg_nor
+com.example.lenovo.apis.R$drawable: int red_del_btn_bg_pre
+com.example.lenovo.apis.R$drawable: int shape_round_corner_bg
+com.example.lenovo.apis.R$drawable: int skin_list_item_normal
+com.example.lenovo.apis.R$drawable: int skin_list_item_pressed
+com.example.lenovo.apis.R$drawable: int slidemenu_item_bg_normal
+com.example.lenovo.apis.R$drawable: int slidemenu_item_bg_pressed
+com.example.lenovo.apis.R$drawable: int tab_divider
+com.example.lenovo.apis.R$drawable: int tab_indicator_bg
+com.example.lenovo.apis.R$drawable: int tab_indicator_fg
+com.example.lenovo.apis.R$drawable: int tab_item_bg
+com.example.lenovo.apis.R$drawable: int tab_item_bg_normal
+com.example.lenovo.apis.R$drawable: int tab_item_bg_press
+com.example.lenovo.apis.R$id: int LenovoSlideOrderShowList
+com.example.lenovo.apis.R$id: int alphabet_scrollbar
+com.example.lenovo.apis.R$id: int alphabet_select_text
+com.example.lenovo.apis.R$id: int animate_icon
+com.example.lenovo.apis.R$id: int attach_info
+com.example.lenovo.apis.R$id: int background_switch
+com.example.lenovo.apis.R$id: int blur_icon1
+com.example.lenovo.apis.R$id: int blur_icon2
+com.example.lenovo.apis.R$id: int blur_icon3
+com.example.lenovo.apis.R$id: int blur_icon4
+com.example.lenovo.apis.R$id: int blurred_image
+com.example.lenovo.apis.R$id: int blurred_image_header
+com.example.lenovo.apis.R$id: int content_item
+com.example.lenovo.apis.R$id: int content_list
+com.example.lenovo.apis.R$id: int delConBtn
+com.example.lenovo.apis.R$id: int demo01
+com.example.lenovo.apis.R$id: int demo02
+com.example.lenovo.apis.R$id: int demo03
+com.example.lenovo.apis.R$id: int demo04
+com.example.lenovo.apis.R$id: int embed_menu_gridview
+com.example.lenovo.apis.R$id: int fast_scroller
+com.example.lenovo.apis.R$id: int flag
+com.example.lenovo.apis.R$id: int flag_count
+com.example.lenovo.apis.R$id: int flag_star
+com.example.lenovo.apis.R$id: int focus_indicator
+com.example.lenovo.apis.R$id: int frame_bg_container
+com.example.lenovo.apis.R$id: int frame_bg_view
+com.example.lenovo.apis.R$id: int frame_show_container
+com.example.lenovo.apis.R$id: int frame_show_view
+com.example.lenovo.apis.R$id: int head_ListView
+com.example.lenovo.apis.R$id: int head_TextView
+com.example.lenovo.apis.R$id: int head_contentLayout
+com.example.lenovo.apis.R$id: int head_progressBar
+com.example.lenovo.apis.R$id: int icon
+com.example.lenovo.apis.R$id: int image
+com.example.lenovo.apis.R$id: int image_ring
+com.example.lenovo.apis.R$id: int iv_flag
+com.example.lenovo.apis.R$id: int iv_state_cover
+com.example.lenovo.apis.R$id: int last_msg
+com.example.lenovo.apis.R$id: int layout_root
+com.example.lenovo.apis.R$id: int letter_item
+com.example.lenovo.apis.R$id: int letter_text
+com.example.lenovo.apis.R$id: int list
+com.example.lenovo.apis.R$id: int listView
+com.example.lenovo.apis.R$id: int listView_flexible
+com.example.lenovo.apis.R$id: int listView_pullchoice
+com.example.lenovo.apis.R$id: int list_item
+com.example.lenovo.apis.R$id: int list_item_22
+com.example.lenovo.apis.R$id: int list_item_hint
+com.example.lenovo.apis.R$id: int list_item_hint_container
+com.example.lenovo.apis.R$id: int list_section_left_action
+com.example.lenovo.apis.R$id: int list_section_left_arrow
+com.example.lenovo.apis.R$id: int list_section_left_arrow_icon1
+com.example.lenovo.apis.R$id: int list_section_left_arrow_icon2
+com.example.lenovo.apis.R$id: int list_section_left_arrow_icon3
+com.example.lenovo.apis.R$id: int list_section_left_icon
+com.example.lenovo.apis.R$id: int list_section_left_text
+com.example.lenovo.apis.R$id: int list_section_left_view
+com.example.lenovo.apis.R$id: int list_section_right_action
+com.example.lenovo.apis.R$id: int list_section_right_arrow
+com.example.lenovo.apis.R$id: int list_section_right_arrow_icon1
+com.example.lenovo.apis.R$id: int list_section_right_arrow_icon2
+com.example.lenovo.apis.R$id: int list_section_right_arrow_icon3
+com.example.lenovo.apis.R$id: int list_section_right_icon
+com.example.lenovo.apis.R$id: int list_section_right_text
+com.example.lenovo.apis.R$id: int list_section_right_view
+com.example.lenovo.apis.R$id: int main_container
+com.example.lenovo.apis.R$id: int mask
+com.example.lenovo.apis.R$id: int nickname
+com.example.lenovo.apis.R$id: int normal_image
+com.example.lenovo.apis.R$id: int oper
+com.example.lenovo.apis.R$id: int operBtn
+com.example.lenovo.apis.R$id: int original_icon
+com.example.lenovo.apis.R$id: int original_info
+com.example.lenovo.apis.R$id: int pager
+com.example.lenovo.apis.R$id: int pop_icon
+com.example.lenovo.apis.R$id: int pop_title
+com.example.lenovo.apis.R$id: int pullchoice_icon
+com.example.lenovo.apis.R$id: int pullchoice_layout
+com.example.lenovo.apis.R$id: int pullchoice_text
+com.example.lenovo.apis.R$id: int refresh_iv_cancel
+com.example.lenovo.apis.R$id: int refresh_iv_image
+com.example.lenovo.apis.R$id: int refresh_iv_processing
+com.example.lenovo.apis.R$id: int refresh_loading_container
+com.example.lenovo.apis.R$id: int refresh_tv_message
+com.example.lenovo.apis.R$id: int refresh_tv_time
+com.example.lenovo.apis.R$id: int scroll_container
+com.example.lenovo.apis.R$id: int scroll_view
+com.example.lenovo.apis.R$id: int selected_tab_indicator
+com.example.lenovo.apis.R$id: int selected_tab_indicator_bg
+com.example.lenovo.apis.R$id: int shader
+com.example.lenovo.apis.R$id: int show_icon1
+com.example.lenovo.apis.R$id: int show_icon2
+com.example.lenovo.apis.R$id: int show_icon3
+com.example.lenovo.apis.R$id: int show_icon4
+com.example.lenovo.apis.R$id: int show_icon5
+com.example.lenovo.apis.R$id: int show_icon6
+com.example.lenovo.apis.R$id: int slide_menu_view
+com.example.lenovo.apis.R$id: int slide_section_view
+com.example.lenovo.apis.R$id: int slidemenu_item1_container
+com.example.lenovo.apis.R$id: int slidemenu_item2_container
+com.example.lenovo.apis.R$id: int state_icon
+com.example.lenovo.apis.R$id: int swipelist
+com.example.lenovo.apis.R$id: int tab_container
+com.example.lenovo.apis.R$id: int tabs
+com.example.lenovo.apis.R$id: int text
+com.example.lenovo.apis.R$id: int text1
+com.example.lenovo.apis.R$id: int text2
+com.example.lenovo.apis.R$id: int text_alphabet
+com.example.lenovo.apis.R$id: int tip
+com.example.lenovo.apis.R$id: int tracks
+com.example.lenovo.apis.R$id: int tv_group_arrow
+com.example.lenovo.apis.R$id: int tv_group_name
+com.example.lenovo.apis.R$id: int tv_groupcount
+com.example.lenovo.apis.R$id: int update_info
+com.example.lenovo.apis.R$id: int update_time
+com.example.lenovo.apis.R$id: int welcome_btn_enter
+com.example.lenovo.apis.R$id: int welcome_login_ponint
+com.example.lenovo.apis.R$id: int welcome_login_scrollviewpager
+com.example.lenovo.apis.R$id: int welcome_viewpager_image
+com.example.lenovo.apis.R$layout: int activity_alphabet_scrollbar
+com.example.lenovo.apis.R$layout: int activity_bitmap_roundcorner
+com.example.lenovo.apis.R$layout: int activity_blureffect
+com.example.lenovo.apis.R$layout: int activity_expandablelist
+com.example.lenovo.apis.R$layout: int activity_fastscroller
+com.example.lenovo.apis.R$layout: int activity_flexible
+com.example.lenovo.apis.R$layout: int activity_gradientblur
+com.example.lenovo.apis.R$layout: int activity_pullchoice
+com.example.lenovo.apis.R$layout: int activity_pullrefresh
+com.example.lenovo.apis.R$layout: int activity_slide_ordershow_list
+com.example.lenovo.apis.R$layout: int activity_slidesection
+com.example.lenovo.apis.R$layout: int activity_swipelist
+com.example.lenovo.apis.R$layout: int activity_touchreverse
+com.example.lenovo.apis.R$layout: int activity_touchreverse_swipesection
+com.example.lenovo.apis.R$layout: int activity_welcome_login
+com.example.lenovo.apis.R$layout: int alphabet_select_toast
+com.example.lenovo.apis.R$layout: int grid_item_embed_menu
+com.example.lenovo.apis.R$layout: int include_pull_to_refresh
+com.example.lenovo.apis.R$layout: int include_pull_to_refreshing_header
+com.example.lenovo.apis.R$layout: int list_item_alphabet_sort
+com.example.lenovo.apis.R$layout: int list_item_anchor_popupwindow
+com.example.lenovo.apis.R$layout: int list_item_apidemo
+com.example.lenovo.apis.R$layout: int list_item_blur_gradient
+com.example.lenovo.apis.R$layout: int list_item_delete
+com.example.lenovo.apis.R$layout: int list_item_embed_menu
+com.example.lenovo.apis.R$layout: int list_item_flexible
+com.example.lenovo.apis.R$layout: int list_item_group_item
+com.example.lenovo.apis.R$layout: int list_item_icon_text
+com.example.lenovo.apis.R$layout: int list_item_icon_text2_icon
+com.example.lenovo.apis.R$layout: int list_item_icon_text_22
+com.example.lenovo.apis.R$layout: int list_item_icon_text_flag
+com.example.lenovo.apis.R$layout: int list_item_icon_text_oper
+com.example.lenovo.apis.R$layout: int list_item_icon_text_tip
+com.example.lenovo.apis.R$layout: int list_item_pullchoice_head
+com.example.lenovo.apis.R$layout: int list_item_pullchoice_row
+com.example.lenovo.apis.R$layout: int list_item_slide_menu
+com.example.lenovo.apis.R$layout: int list_item_slide_section
+com.example.lenovo.apis.R$layout: int list_slide_order_show
+com.example.lenovo.apis.R$layout: int popup_action_item_horizontal
+com.example.lenovo.apis.R$layout: int popup_horizontal
+com.example.lenovo.apis.R$layout: int popup_horizontal_separator
+com.example.lenovo.apis.R$layout: int tab_container
+com.example.lenovo.apis.R$layout: int tab_item
+com.example.lenovo.apis.R$layout: int welcome_viewpager_item
+com.example.lenovo.apis.R$string: int alphabet_search_text
+com.example.lenovo.apis.R$string: int app_name
+com.example.lenovo.apis.R$string: int delete_btn
+com.example.lenovo.apis.R$string: int popup_item_add_to
+com.example.lenovo.apis.R$string: int popup_item_delete
+com.example.lenovo.apis.R$string: int popup_item_download
+com.example.lenovo.apis.R$string: int popup_item_favorite_add
+com.example.lenovo.apis.R$string: int popup_item_set_ringtone
+com.example.lenovo.apis.R$string: int popup_item_share
+com.example.lenovo.apis.R$string: int slide_menu_item1
+com.example.lenovo.apis.R$string: int slide_menu_item2
+com.example.lenovo.apis.R$string: int slide_menu_tip
+com.example.lenovo.apis.R$string: int slide_section_left
+com.example.lenovo.apis.R$string: int slide_section_right
+com.example.lenovo.apis.R$style: int Animations
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_Center
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_GROW
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_Left
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_MoveLR
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_Reflect
+com.example.lenovo.apis.R$style: int Animations_PopDownMenu_Right
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_Center
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_DropDownDown
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_DropDownUp
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_GROW
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_Left
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_MoveLR
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_Reflect
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_Right
+com.example.lenovo.apis.R$style: int Animations_PopUpMenu_Test
+com.example.lenovo.apis.R$style: int AppBaseTheme
+com.example.lenovo.apis.R$style: int AppTheme
+com.example.lenovo.apis.R$style: int LenovoAlphabetSortListCatalog
+com.example.lenovo.apis.R$style: int LenovoTabItem
+com.example.lenovo.apis.ReverseListViewDemo
+com.example.lenovo.apis.ReverseListViewDemo: ReverseListViewDemo()
+com.example.lenovo.apis.SlideMenuListViewDemo
+com.example.lenovo.apis.SlideMenuListViewDemo: SlideMenuListViewDemo()
+com.example.lenovo.apis.SlideOrderShowListViewDemo
+com.example.lenovo.apis.SlideOrderShowListViewDemo: SlideOrderShowListViewDemo()
+com.example.lenovo.apis.SlideSectionListViewDemo
+com.example.lenovo.apis.SlideSectionListViewDemo: SlideSectionListViewDemo()
+com.example.lenovo.apis.SwipeAcitonListViewDemo
+com.example.lenovo.apis.SwipeAcitonListViewDemo: SwipeAcitonListViewDemo()
+com.example.lenovo.apis.SwipeDeleteListViewDemo
+com.example.lenovo.apis.SwipeDeleteListViewDemo: SwipeDeleteListViewDemo()
+com.example.lenovo.apis.WelcomeActivityDemo
+com.example.lenovo.apis.WelcomeActivityDemo: WelcomeActivityDemo()
+lenovo.jni.ImageUtils
+lenovo.jni.ImageUtils: void fastBlur(android.graphics.Bitmap,android.graphics.Bitmap,int,int,int)
+lenovo.view.LenovoAlphabetScrollBar
+lenovo.view.LenovoAlphabetScrollBar: LenovoAlphabetScrollBar(android.content.Context)
+lenovo.view.LenovoAlphabetScrollBar: LenovoAlphabetScrollBar(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoAlphabetScrollBar: void setOnLetterClickListener(lenovo.view.LenovoAlphabetScrollBar$OnLetterClickListener)
+lenovo.view.LenovoBlurGradientScrollableImageView
+lenovo.view.LenovoBlurGradientScrollableImageView: LenovoBlurGradientScrollableImageView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoBlurGradientScrollableImageView: LenovoBlurGradientScrollableImageView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoBlurGradientScrollableImageView: LenovoBlurGradientScrollableImageView(android.content.Context)
+lenovo.view.LenovoBlurGradientScrollableImageView: void setoriginalImage(android.graphics.Bitmap)
+lenovo.view.LenovoBlurGradientScrollableImageView: void setScreenWidth(int)
+lenovo.view.LenovoBlurGradientTopCenterImageView
+lenovo.view.LenovoBlurGradientTopCenterImageView: LenovoBlurGradientTopCenterImageView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoBlurGradientTopCenterImageView: LenovoBlurGradientTopCenterImageView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoBlurGradientTopCenterImageView: LenovoBlurGradientTopCenterImageView(android.content.Context)
+lenovo.view.LenovoFastScrollerView
+lenovo.view.LenovoFastScrollerView: LenovoFastScrollerView(android.content.Context)
+lenovo.view.LenovoFastScrollerView: LenovoFastScrollerView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoFastScrollerView: LenovoFastScrollerView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoFastScrollerView: void setOnScrollListener(lenovo.view.LenovoFastScrollerView$OnScrollListener)
+lenovo.view.LenovoFlexibleListView
+lenovo.view.LenovoFlexibleListView: LenovoFlexibleListView(android.content.Context)
+lenovo.view.LenovoFlexibleListView: LenovoFlexibleListView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoFlexibleListView: LenovoFlexibleListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoFlexibleListView: void setOnScrollListener(android.widget.AbsListView$OnScrollListener)
+lenovo.view.LenovoPinnedHeaderExpandableListView
+lenovo.view.LenovoPinnedHeaderExpandableListView: LenovoPinnedHeaderExpandableListView(android.content.Context)
+lenovo.view.LenovoPinnedHeaderExpandableListView: LenovoPinnedHeaderExpandableListView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoPinnedHeaderExpandableListView: LenovoPinnedHeaderExpandableListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoPinnedHeaderExpandableListView: void setPinnedHeaderViewListener(lenovo.view.LenovoPinnedHeaderExpandableListView$PinnedHeaderViewListener)
+lenovo.view.LenovoPinnedHeaderExpandableListView: void setAdapter(android.widget.ExpandableListAdapter)
+lenovo.view.LenovoPinnedHeaderExpandableListView: void setPinnedHeaderView(android.view.View)
+lenovo.view.LenovoPullChoiceListView
+lenovo.view.LenovoPullChoiceListView: LenovoPullChoiceListView(android.content.Context)
+lenovo.view.LenovoPullChoiceListView: LenovoPullChoiceListView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoPullChoiceListView: void setonRefreshListener(lenovo.view.LenovoPullChoiceListView$OnRefreshListener)
+lenovo.view.LenovoPullChoiceListView: void setAdapter(android.widget.BaseAdapter)
+lenovo.view.LenovoPullChoiceListView: void setListViewHeightBasedOnChildren(android.widget.ListView)
+lenovo.view.LenovoPullChoiceListView: int getSelectID()
+lenovo.view.LenovoPullChoiceListView: int getChoiceSize()
+lenovo.view.LenovoPullRefreshListView
+lenovo.view.LenovoPullRefreshListView: LenovoPullRefreshListView(android.content.Context)
+lenovo.view.LenovoPullRefreshListView: LenovoPullRefreshListView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoPullRefreshListView: LenovoPullRefreshListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoPullRefreshListView: void setOnRefreshListener(lenovo.view.LenovoPullRefreshListView$OnRefreshListener)
+lenovo.view.LenovoPullRefreshListView: int getRefreshLayout()
+lenovo.view.LenovoPullRefreshListView: int getRefreshingLayout()
+lenovo.view.LenovoPullRefreshListView: void setIsAbleToPull(android.view.MotionEvent)
+lenovo.view.LenovoReverseListView
+lenovo.view.LenovoReverseListView: LenovoReverseListView(android.content.Context)
+lenovo.view.LenovoReverseListView: LenovoReverseListView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoReverseListView: LenovoReverseListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoReverseListView: void setReverseListViewItemListener(lenovo.view.LenovoReverseListView$OnReverseListViewItemListener)
+lenovo.view.LenovoReverseListView: void setHeigtIncreasable(boolean)
+lenovo.view.LenovoReverseListView: void setDeltaHeight(int)
+lenovo.view.LenovoReverseListView: void setReversable(boolean)
+lenovo.view.LenovoReverseListView: void setAngle(float)
+lenovo.view.LenovoRotatingImageView
+lenovo.view.LenovoRotatingImageView: LenovoRotatingImageView(android.content.Context)
+lenovo.view.LenovoRotatingImageView: LenovoRotatingImageView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoRotatingImageView: LenovoRotatingImageView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoRotatingImageView: void setDegree(int)
+lenovo.view.LenovoSlideMenuGroupView
+lenovo.view.LenovoSlideMenuGroupView: LenovoSlideMenuGroupView(android.content.Context)
+lenovo.view.LenovoSlideMenuGroupView: LenovoSlideMenuGroupView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoSlideMenuGroupView: LenovoSlideMenuGroupView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoSlideMenuGroupView: void setContentView(android.view.View)
+lenovo.view.LenovoSlideOrderShowViewPager
+lenovo.view.LenovoSlideOrderShowViewPager: void setOnPageChangeListenerEx(lenovo.view.LenovoSlideOrderShowViewPager$OnPageChangeListenerEx)
+lenovo.view.LenovoSlideOrderShowViewPager: LenovoSlideOrderShowViewPager(android.content.Context)
+lenovo.view.LenovoSlideOrderShowViewPager: LenovoSlideOrderShowViewPager(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoSlideSectionGroupView
+lenovo.view.LenovoSlideSectionGroupView: LenovoSlideSectionGroupView(android.content.Context)
+lenovo.view.LenovoSlideSectionGroupView: LenovoSlideSectionGroupView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoSlideSectionGroupView: LenovoSlideSectionGroupView(android.content.Context,android.util.AttributeSet,int)
+lenovo.view.LenovoSlideSectionGroupView: void setParentView(android.view.View)
+lenovo.view.LenovoSlideSectionGroupView: void setContentView(android.view.View)
+lenovo.view.LenovoSlideSectionGroupView: android.view.View getContentView()
+lenovo.view.LenovoSlideSectionGroupView: void setNeedRequestParentLayout(boolean)
+lenovo.view.LenovoViewPagerIndicatorView
+lenovo.view.LenovoViewPagerIndicatorView: LenovoViewPagerIndicatorView(android.content.Context)
+lenovo.view.LenovoViewPagerIndicatorView: LenovoViewPagerIndicatorView(android.content.Context,android.util.AttributeSet)
+lenovo.view.LenovoViewPagerIndicatorView: void setCurentPoint(int)
+lenovo.view.LenovoViewPagerIndicatorView: void setPointCount(int)
+lenovo.view.animation.LenovoShaderAnimLayout
+lenovo.view.animation.LenovoShaderAnimLayout: LenovoShaderAnimLayout(android.content.Context)
+lenovo.view.animation.LenovoShaderAnimLayout: LenovoShaderAnimLayout(android.content.Context,android.util.AttributeSet)
+lenovo.view.animation.LenovoShaderAnimLayout: LenovoShaderAnimLayout(android.content.Context,android.util.AttributeSet,int)
+lenovo.widget.LenovoSlideOrderShowListView
+lenovo.widget.LenovoSlideOrderShowListView: LenovoSlideOrderShowListView(android.content.Context)
+lenovo.widget.LenovoSlideOrderShowListView: LenovoSlideOrderShowListView(android.content.Context,android.util.AttributeSet)
+lenovo.widget.LenovoSlideOrderShowListView: LenovoSlideOrderShowListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.widget.LenovoSlideOrderShowListView: void setDistance(float)
+lenovo.widget.LenovoSlideOrderShowListView: void setOrientation(boolean)
+lenovo.widget.LenovoSwipeActionListView
+lenovo.widget.LenovoSwipeActionListView: LenovoSwipeActionListView(android.content.Context)
+lenovo.widget.LenovoSwipeActionListView: LenovoSwipeActionListView(android.content.Context,android.util.AttributeSet)
+lenovo.widget.LenovoSwipeActionListView: LenovoSwipeActionListView(android.content.Context,android.util.AttributeSet,int)
+lenovo.widget.LenovoSwipeActionListView: void setEnabled(boolean)
+lenovo.widget.LenovoTabContainerView
+lenovo.widget.LenovoTabContainerView: LenovoTabContainerView(android.content.Context,android.util.AttributeSet)
+lenovo.widget.LenovoTabContainerView: void setOnTabClickListener(lenovo.widget.LenovoTabContainerView$OnTabClickListener)
+lenovo.widget.LenovoTabContainerView: int getCurrentTabIndex()
+lenovo.widget.LenovoTabContainerView: void setCurrentTab(int)
+lenovo.widget.LenovoTabItemView
+lenovo.widget.LenovoTabItemView: LenovoTabItemView(android.content.Context,android.util.AttributeSet)
+lenovo.widget.LenovoTabItemView: void setTitle(java.lang.String)
